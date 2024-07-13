@@ -11,7 +11,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"."
       "required":true
     },
     "AUTO_READ_MESSAGES":
@@ -65,7 +65,7 @@
      "required" :false
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME",
+    "description": "insert ",
      "required" :false
     }  
           ,
@@ -88,13 +88,13 @@
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254110853827"
+    "value": "254799415801"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "1"
   },
     "CHAT_BOT":
     {
